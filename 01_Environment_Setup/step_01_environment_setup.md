@@ -26,4 +26,6 @@ Set up the basic AWS environment, configure IAM, enable MFA, and create billing 
 3. Configure billing alerts to monitor spending
 - I navigate to the Billing and Cost Management Console
 - Ensure that you have an IAM User and Role Access to Billing Information
-- 
+- Then under billing and cost management, enable billing alerts
+- Then go to Cloud Watch and create an alarm with the billing metric
+
