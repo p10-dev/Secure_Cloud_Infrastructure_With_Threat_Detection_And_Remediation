@@ -3,14 +3,14 @@ As a Cybersecurity Student, this project is about designing, implementing, and s
 
 Steps I will take here are:
 
-Identity and Access Management (IAM) – Setting up least privilege policies, MFA (Multi-Factor Authentication), and securing root account access.
+1. Identity and Access Management (IAM) – Setting up least privilege policies, MFA (Multi-Factor Authentication), and securing root account access.
 
-Network Security – Designing a secure VPC with public and private subnets, configuring security groups, and using Network ACLs.
+2. Network Security – Designing a secure VPC with public and private subnets, configuring security groups, and using Network ACLs.
 
-Encryption – Using AWS Key Management Service (KMS) to encrypt sensitive data.
+3. Encryption – Using AWS Key Management Service (KMS) to encrypt sensitive data.
 
-Real-Time Threat Detection – Using AWS services like GuardDuty for continuous monitoring and AWS Security Hub for centralized compliance checks.
+4. Real-Time Threat Detection – Using AWS services like GuardDuty for continuous monitoring and AWS Security Hub for centralized compliance checks.
 
-Automation of Incident Response – Setting up AWS Lambda functions for automated response to threats (e.g., automatically isolating compromised instances).
+5. Automation of Incident Response – Setting up AWS Lambda functions for automated response to threats (e.g., automatically isolating compromised instances).
 
-Monitoring and Logging – Using CloudWatch and CloudTrail for monitoring, alerting, and auditing activity.
+6. Monitoring and Logging – Using CloudWatch and CloudTrail for monitoring, alerting, and auditing activity.
