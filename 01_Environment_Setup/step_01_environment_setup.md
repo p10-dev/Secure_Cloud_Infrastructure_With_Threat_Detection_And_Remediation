@@ -2,6 +2,8 @@
 
 ## Purpose
 Set up the basic AWS environment, configure IAM, enable MFA, and create billing alerts.
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/974d676e-58c2-4eeb-822f-3b91de935d6f">
+
 
 ## Steps
 1. Enable MFA for the root account.
