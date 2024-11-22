@@ -1,4 +1,6 @@
 ### Step 3: Network and VPC Configuration
+![image](https://github.com/user-attachments/assets/36b1de67-e6f9-4ac9-a9e4-c532d39941f5)
+
 
 #### VPC Creation
 Created `MySecureVPC` with a CIDR block of `10.0.0.0/16`.
