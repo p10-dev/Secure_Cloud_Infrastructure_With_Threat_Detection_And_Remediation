@@ -4,6 +4,8 @@
 
 #### VPC Creation
 Created `MySecureVPC` with a CIDR block of `10.0.0.0/16`.
+![image](https://github.com/user-attachments/assets/0882e7b1-3336-4e28-b8ff-fc5f59eadc37)
+
 
 #### Subnet Configuration
 - **Public Subnet**: `10.0.1.0/24` with auto-assigned public IPs enabled.
